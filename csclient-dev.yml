@@ -1,0 +1,6 @@
+# {프로젝트명}-{환경명}.{yml 또는 properties}
+tony:
+  profile: i'm dev
+  said:
+    first: hello-dev
+    second: world-dev
